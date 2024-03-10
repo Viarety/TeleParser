@@ -13,4 +13,4 @@ Log in to your account at [site](https://my.telegram.org/) and copy api_id and a
 Replace lines **7** and **8** with your api_id and api_hash
 
 <br>&nbsp;
-**Run this script in your terminal or IDE:**
+**Run this script in your terminal or IDE**
