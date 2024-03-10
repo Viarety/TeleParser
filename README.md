@@ -10,7 +10,7 @@ Parser Telegram accounts data by username
 Log in to your account at [site](https://my.telegram.org/) and copy api_id and api_hash from [Api developments tools](https://my.telegram.org/apps)
 
 <br>&nbsp;
-Replace lines **7** and **8** with your api_id and api_hash
+Replace lines **7** and **8** with your api_id and api_hash in **TeleParser.py**
 
 <br>&nbsp;
 **Run this script in your terminal or IDE**
